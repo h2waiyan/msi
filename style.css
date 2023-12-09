@@ -1,0 +1,18 @@
+p {
+  width: 200px;
+  background-color: red;
+}
+
+span {
+  display: none;
+  width: 200px;
+  background-color: blue;
+}
+
+.cloud {
+  display: none;
+}
+
+.mountain {
+  visibility: hidden;
+}
